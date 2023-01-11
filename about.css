@@ -1,0 +1,91 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(107, 130, 152, 1);
+}
+.po {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+.pop2 {
+    float: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    font-family: 'Poppins';
+}
+.pop2 a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+
+}
+.aza{
+    font-family: 'Noticia Text';
+font-style: normal;
+font-weight: 700;
+font-size: 32px;
+line-height: 44px;
+}
+.az{
+    font-family: 'Nokora';
+font-style: normal;
+font-weight: 400;
+font-size: 20px;
+line-height: 26px;
+}
+.pop2 a:hover {
+    background-color: #111111;
+}
+.pop {
+    float: right;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.pop a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+
+}
+.pop a:hover {
+    background-color: #111111;
+}
+.op{
+    margin-top: 15px;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Orelega One';
+    font-style: normal;
+}
+.text{
+    padding-left: 110px;
+}
+.p1{
+    position: absolute;
+  
+    margin-left: 800px;
+    width: 350px;
+    height: 280px;
+}
+.p2{
+    position: absolute;
+    margin-left: 800px;
+    width: 350px;
+    height: 280px;
+}
+.p3{
+    margin-left: 10px;
+    width: 350px;
+    height: 280px;
+}

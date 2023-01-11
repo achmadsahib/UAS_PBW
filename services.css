@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(107, 130, 152, 1);
+}
+.po {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+}
+.pop2 {
+    float: left;
+    padding-left: 10px;
+    margin-top: 10px;
+    font-family: 'Poppins';
+}
+.pop2 a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+
+}
+.pop2 a:hover {
+    background-color: #111111;
+}
+.pop {
+    float: right;
+    padding-left: 10px;
+    margin-top: 10px;
+}
+.pop a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+
+}
+.mz{
+    font-family: 'Noticia Text';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 40px;
+    line-height: 55px;
+}
+.pop a:hover {
+    background-color: #111111;
+}
+.op{
+    margin-top: 15px;
+}
+h1{
+    text-align: center;
+    font-family: 'Orelega One';
+    font-style: normal;
+}
+.kotak1{
+    position: absolute;
+    margin-left: 35%;
+    box-sizing: border-box;
+    width: 200px;
+    height: 81px;
+    background: #BC9090;
+    border: 3px solid #000000;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+} 
+.kotak2{
+    margin-left: 50%;
+    position: absolute;
+    box-sizing: border-box;
+    width: 200px;
+    height: 81px;
+    text-align: center;
+    background: #FFFFFF;
+    border: 3px solid #BC9090;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 15px;
+
+}
+.masuk{
+
+    text-align: center;
+    font-family: 'Oxygen Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 75px;
+    color: white;
+
+}
+.daftar{
+    text-align: center;
+    font-family: 'Oxygen Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 75px;
+    color: black;
+}
